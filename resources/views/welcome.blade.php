@@ -20,7 +20,7 @@
 
                     <div class="freebirdFormviewerViewHeaderTitleRow">
 
-                        <div class="freebirdFormviewerViewHeaderTitle" dir="auto" role="heading" aria-level="1">Caminata CERRO ELEFANTE Jueves 26 de Enero de 2017</div>
+                        <div class="freebirdFormviewerViewHeaderTitle" dir="auto" role="heading" aria-level="1">Caminata PÁRAMO DE CRUZ VERDE (Sector la María) Domingo 29 de Enero de 2017</div>
 
                     </div>
 <br>
@@ -32,21 +32,21 @@
 
                                 <li class="elmnt-one">                                 
 
-                                        <div class="wrap"><img src="public/Img/cerro.jpg"  height="400">
+                                        <div class="wrap"><img src="public/Img/delirio2.jpg"  height="400">
 
                                         </div>                                   
                                 </li>
 
                                <li class="elmnt-two">
                                     
-                                        <div class="wrap"><img src="public/Img/cerro1.jpg"  height="400">
+                                        <div class="wrap"><img src="public/Img/delirio1.jpg"  height="400">
 
                                         </div>                                 
                                 </li>
 
                                  <li class="elmnt-three">
                                     
-                                        <div class="wrap"><img src="public/Img/cerro3.jpg"  height="400">
+                                        <div class="wrap"><img src="public/Img/delirio.jpg"  height="400">
 
                                         </div>                                 
                                 </li>
@@ -75,19 +75,19 @@
 
                         <h2>Ubicación</h2>
 
-                        <p><font size="3">El sendero se encuentra ubicado en el cerro de la ¨TETA¨ de la localidad de san Cristóbal. En el recorrido se puede observar piedras con líquenes rojos conocidas como piedras coloradas, además podemos contemplar una mirada del sur oriente de la ciudad.</font></p>
+                        <p><font size="3">El sendero se encuentra ubicado en el sur oriente de Bogotá, en la localidad de San Cristóbal sobre el páramo de cruz verde y antiguo camino real a Ubaque, podemos observar el nacimiento del rio Fucha.</font></p>
 
                         <h2>Descripción del recorrido </h2>
 
-                        <p><font size="3">El recorrido da inicio en la entrada del parqueadero de los buses del SITP ubicado frente al barrio pinares, donde se realizara un calentamiento de aproximadamente 20 minutos, el guía de caminatas del IDRD dará las recomendaciones propias del recorrido y necesarias para su ejecucion y se dará inicio a la caminata.</font></p>
+                        <p><font size="3">El recorrido da inicio en el Instituto Nacional para niños ciegos ubicado en el barrio San Cristóbal sur, donde se realizara un calentamiento de aproximadamente 20 minutos, el guía de caminatas del IDRD dará las recomendaciones de la actividad y se iniciará la caminata con un desplazamiento hasta la puerta de ingreso a la reserva del delirio en predios de la empresa de acueducto y alcantarillado de Bogotá, en este punto se ingresa por el sendero que conduce al páramo, aproximadamente a 40 minutos de ascenso se toma a la derecha por el camino entre bosque de pinos y llegar a la casa de la María en este punto, se inicia el descenso hasta la estación plubliométrica  finalizando la caminata en el punto de encuentro de la mañana.</font></p>
 
                         <h2>Durante el recorrido se visitaran los siguientes atractivos:</h2>
                         <ul class="ul_inicio">
                             <font size="3">
-                            <li>Zona de páramo</li>
-                            <li>Miradores</li>
-                            <li>Ecosistema de niebla y sub- páramo</li>
-                            <li>Piedras coloradas</li>
+                            <li>Río Fucha</li>
+                            <li>Camino empedrado</li>
+                            <li>Vegetación nativa</li>
+                            <li>Ecosistema de niebla</li>
                             </font>
                         </ul>
                         <br>
@@ -108,7 +108,7 @@
 
                                         <td width="282" bgcolor="#ffffff" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>Parqueadero del SITP ubicado en la entrada del barrio pinares.</p>
+                                            <p>Instituto para niños ciegos (Barrio San Cristobal sur).</p>
 
                                         </td>
 
@@ -124,7 +124,7 @@
 
                                         <td width="282" bgcolor="#deeaf6" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>Jueves 26 de Enero de 2017</p>
+                                            <p>Domingo 29 de Enero de 2017</p>
 
                                         </td>
 
@@ -156,7 +156,7 @@
 
                                         <td width="282" bgcolor="#deeaf6" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>40 Personsa</p>
+                                            <p>50 Personsa</p>
 
                                         </td>
 
@@ -190,7 +190,7 @@
 
                                         <td width="282" bgcolor="#deeaf6" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>3.200 m.s.n.m</td>
+                                            <p>2.900 m.s.n.m</td>
 
                                     </tr>
 
@@ -204,7 +204,7 @@
 
                                         <td width="282" bgcolor="#ffffff" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>14°</p>
+                                            <p>12°</p>
 
                                         </td>
 
