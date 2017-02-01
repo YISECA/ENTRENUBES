@@ -20,7 +20,7 @@
 
                     <div class="freebirdFormviewerViewHeaderTitleRow">
 
-                        <div class="freebirdFormviewerViewHeaderTitle" dir="auto" role="heading" aria-level="1">Caminata PÁRAMO DE CRUZ VERDE (Sector la María) Domingo 29 de Enero de 2017</div>
+                        <div class="freebirdFormviewerViewHeaderTitle" dir="auto" role="heading" aria-level="1">Caminata Montaña Entre Nubes - Sector Mirador Juan Rey Sabado 04 de Febrero de 2017</div>
 
                     </div>
 <br>
@@ -32,21 +32,21 @@
 
                                 <li class="elmnt-one">                                 
 
-                                        <div class="wrap"><img src="public/Img/delirio2.jpg"  height="400">
+                                        <div class="wrap"><img src="public/Img/nubes.jpg"  height="400">
 
                                         </div>                                   
                                 </li>
 
                                <li class="elmnt-two">
                                     
-                                        <div class="wrap"><img src="public/Img/delirio1.jpg"  height="400">
+                                        <div class="wrap"><img src="public/Img/nubes1.jpg"  height="400">
 
                                         </div>                                 
                                 </li>
 
                                  <li class="elmnt-three">
                                     
-                                        <div class="wrap"><img src="public/Img/delirio.jpg"  height="400">
+                                        <div class="wrap"><img src="public/Img/nubes2.jpg"  height="400">
 
                                         </div>                                 
                                 </li>
@@ -75,19 +75,20 @@
 
                         <h2>Ubicación</h2>
 
-                        <p><font size="3">El sendero se encuentra ubicado en el sur oriente de Bogotá, en la localidad de San Cristóbal sobre el páramo de cruz verde y antiguo camino real a Ubaque, podemos observar el nacimiento del rio Fucha.</font></p>
+                        <p><font size="3">El sendero se encuentra ubicado en la las localidades de san Cristóbal, Rafael Uribe Uribe y Usme. El parque colinda al oriente con los barrios se Juan Rey, la Belleza, la Flora y el agroparque los Soches, hacia el occidente en la parte baja se encuentra la Avenida Caracas vía Usme, barrio el Danubio, La Fiscala, Santa Marta, Santa Librada, la ladrillera Santa fe y el portal de Transmilenio de Usme, hacia el norte con el extremo sur de la avenida Décima (en donde se encuentra el cerro Guacamayas) se encuentran barrios como Cerros de Oriente, Barcelona, Las Lomas y el Parque recreativo Bosque de San Carlos, al sur con el sector rural de Usme,  la autopista al Llano que corta la cuchilla del Gavilán, barrios que pertenecen a la comuna Alfonso López: El Uval, Alfonso López Serranías, Tocaimita y Compostelas.
+                        El parque hace parte del sistema de áreas protegidas del distrito y es catalogado como parque ecológico distrital de montaña, tienes 626 hectáreas distribuidas en 3 cerros; Guacamayas, Juan rey y Cuchilla del Gavilán. </font></p>
 
                         <h2>Descripción del recorrido </h2>
 
-                        <p><font size="3">El recorrido da inicio en el Instituto Nacional para niños ciegos ubicado en el barrio San Cristóbal sur, donde se realizara un calentamiento de aproximadamente 20 minutos, el guía de caminatas del IDRD dará las recomendaciones de la actividad y se iniciará la caminata con un desplazamiento hasta la puerta de ingreso a la reserva del delirio en predios de la empresa de acueducto y alcantarillado de Bogotá, en este punto se ingresa por el sendero que conduce al páramo, aproximadamente a 40 minutos de ascenso se toma a la derecha por el camino entre bosque de pinos y llegar a la casa de la María en este punto, se inicia el descenso hasta la estación plubliométrica  finalizando la caminata en el punto de encuentro de la mañana.</font></p>
+                        <p><font size="3">El recorrido dará inicio en el ingreso por el barrio Juan Rey donde se realizara un calentamiento de 20 minutos aprox. se darán las indicaciones y las recomendaciones de la actividaden, se hara un desplazamiento corto hacia el mirador de Juan Rey.</font></p>
 
                         <h2>Durante el recorrido se visitaran los siguientes atractivos:</h2>
                         <ul class="ul_inicio">
                             <font size="3">
-                            <li>Río Fucha</li>
-                            <li>Camino empedrado</li>
-                            <li>Vegetación nativa</li>
-                            <li>Ecosistema de niebla</li>
+                            <li>Alto de la cruz </li>
+                            <li>Mirador del relleno sanitario de Doña Juana </li>
+                            <li>Refugio</li>
+                            <li>Humedales artificiales</li>
                             </font>
                         </ul>
                         <br>
@@ -108,7 +109,22 @@
 
                                         <td width="282" bgcolor="#ffffff" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>Instituto para niños ciegos (Barrio San Cristobal sur).</p>
+                                            <p>CAI DE JUAN REY TRV. 14 Este (Av Circunvalar - Av Cerros) CALLE 74 SUR</p>
+
+                                        </td>
+
+                                    </tr>
+                                     <tr valign="top">
+
+                                        <td width="281" bgcolor="#ffffff" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
+
+                                            <p>Barrio</p>
+
+                                        </td>
+
+                                        <td width="282" bgcolor="#ffffff" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
+
+                                            <p>Juan Rey - Parque San Cayetano</p>
 
                                         </td>
 
@@ -124,7 +140,7 @@
 
                                         <td width="282" bgcolor="#deeaf6" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>Domingo 29 de Enero de 2017</p>
+                                            <p>Sabado 04 de Febrero de 2017</p>
 
                                         </td>
 
@@ -190,7 +206,7 @@
 
                                         <td width="282" bgcolor="#deeaf6" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>2.900 m.s.n.m</td>
+                                            <p>3.105 m.s.n.m</td>
 
                                     </tr>
 
@@ -224,21 +240,42 @@
                                         </td>
 
                                     </tr>
-                                    <!--<tr valign="top">
+                                    <tr valign="top">
 
                                        <td width="281" bgcolor="#ffffff" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>Distancia</p>
+                                            <p>Duración</p>
 
                                         </td>
 
                                         <td width="282" bgcolor="#ffffff" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>3.5 km</p>
+                                            <p>4 horas aproximadamente </p>
 
                                         </td>
 
-                                    </tr>-->
+                                    </tr>
+                                     <tr valign="top">
+
+                                        <td width="281" bgcolor="#deeaf6" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
+
+                                            <p>Rutas de SITP</p>
+
+                                        </td>
+
+                                        <td width="282" bgcolor="#deeaf6" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
+
+                                            <li>139 Bosa La Primevera - Juan Rey</li>
+                            
+                                            <li>256 Ricaurte -Tihuaque</li>
+
+                                            <li>148 Villa Teresita - Doña Liliana</li>
+                                            <li>T30 Patio Bonito - Doña Liliana</li>
+                                            <li>Ruta Alimentadora desde el portal 20 de Julio: 13-9 Tihuaque</li>
+
+                                        </td>
+
+                                    </tr>
                                      
 
                         </table></center></font>
